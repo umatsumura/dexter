@@ -1,0 +1,3 @@
+[submodule "tesollo_model"]
+	path = tesollo_model
+	url = git@github.com:umatsumura/tesollo_model.git
